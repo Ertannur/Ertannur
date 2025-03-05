@@ -15,7 +15,7 @@ a passionate educator and aspiring web developer with a unique blend of experien
 📫 Let’s connect and collaborate! Whether you’re an educator, developer, or just someone who shares my passion for innovation in education, I’d love to hear from you:
 
 
-GitHub: [[Your GitHub Profile](https://github.com/Ertannur)]
+GitHub: [[My GitHub Profile](https://github.com/Ertannur)]
 
 Together, let’s build tools that inspire the next generation of learners! 😄
 
