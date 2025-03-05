@@ -1,7 +1,23 @@
-# Hi there 👋 I'm `Ertannur`!
 
-## About Me
-> I'm an
+# About Me
+
+👋 Hi there! I'm **Ertannur**, <br>
+a passionate educator and aspiring web developer with a unique blend of experience in music education and programming. As a dedicated music teacher, I’ve spent years fostering creativity, problem-solving, and collaboration in the classroom. Now, I’m channeling that same passion into building innovative web applications designed to enhance learning experiences in schools and educational settings.
+
+💻 My journey into programming began with a desire to create tools that make education more engaging, accessible, and effective. I specialize in HTML, CSS and JavaScript, and I’m particularly interested in developing web apps that integrate interactive learning, gamification, and multimedia elements to support teachers and students alike.
+
+🎶 My background in music education has taught me the importance of clear communication, adaptability, and user-centered design—skills I now apply to my coding projects. Whether it’s designing intuitive interfaces or crafting interactive features, I aim to create solutions that are both functional and inspiring.
+
+🌱 I’m currently expanding my knowledge in full-stack development and exploring ways to bridge the gap between technology and education. I’m also passionate about contributing to open-source projects that empower educators and learners worldwide.
+
+🚀 When I’m not coding or teaching, you can find me exploring countries I haven't been to or working on my Spanish skills as my fifth language. I believe that creativity and technology go hand in hand, and I’m always looking for ways to combine the two.
+
+📫 Let’s connect and collaborate! Whether you’re an educator, developer, or just someone who shares my passion for innovation in education, I’d love to hear from you:
+
+
+GitHub: [[Your GitHub Profile](https://github.com/Ertannur)]
+
+Together, let’s build tools that inspire the next generation of learners! 😄
 
 ## My Projects
 🥳 My new project on changing tabs via coding with Javascript is done. I'm soon going to upload it. 
